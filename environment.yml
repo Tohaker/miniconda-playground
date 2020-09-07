@@ -1,0 +1,11 @@
+name: playground
+channels:
+    - conda-forge
+dependencies:
+    - jupyter
+    - numpy
+    - pandas
+    - matplotlib
+    - scikit-learn
+    - statsmodels
+    - autopep8
